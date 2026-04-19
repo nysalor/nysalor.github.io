@@ -45,7 +45,7 @@ Jun Yokoyama(@nysalor)
 
 ## Community
 
-[![miurahanto.rb](/Users/jun/Downloads/FireShot/miurahantorb.png)](https://miurahantorb.connpass.com/)
+[![miurahanto.rb](/assets/images/miurahantorb.png)](https://miurahantorb.connpass.com/)
 
 [miurahanto.rb](https://miurahantorb.connpass.com/)
 
