@@ -3,4 +3,41 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: about me
 ---
+
+# about me
+
+![Twitter Icon](/assets/images/zuiho.png)]
+
+Jun Yokoyama(@nysalor)
+
+[bluesky @nysalor.bsky.social](https://bsky.app/profile/nysalor.bsky.social)
+
+[Twitter @nysalor](https://x.com/nysalor)
+
+[github @nysalor](https://github.com/nysalor/)
+
+## skill
+
+- programming
+  - Ruby(Ruby on Rails)
+- Database(SQL)
+- Docker
+- AWS
+- etc.
+
+## Hobby
+
+### Photo(Aircrafts, Ships)
+
+[![F-25B](/assets/images/20250504-2-DSC_5071-2s.jpg)](/assets/images/20250504-2-DSC_5071-2.jpg)
+
+[![F-25B](/assets/images/20250902-55-DSC_2390s.jpg)](/assets/images/20250902-55-DSC_2390.jpg)
+
+### Keyboard
+
+![Lily58pro](/assets/images/lily58pro.jpg)
+
+### Reading books
+
