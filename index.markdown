@@ -41,3 +41,16 @@ Jun Yokoyama(@nysalor)
 
 ### Reading books
 
+### Game
+
+## Community
+
+[miurahanto.rb](https://miurahantorb.connpass.com/)
+
+## Work
+
+[Research and Innovation Co.,Ltd.](https://www.r-n-i.jp/) Akasaka, Tokyo
+
+## link
+
+[blog](https://blog.larus.jp)
