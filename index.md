@@ -31,9 +31,9 @@ Jun Yokoyama(@nysalor)
 
 ### Photo(Aircrafts, Ships)
 
-[![F-25B](/assets/images/20250504-2-DSC_5071-2s.jpg)](/assets/images/20250504-2-DSC_5071-2.jpg)
+[![F-35B](/assets/images/20250504-2-DSC_5071-2s.jpg)](/assets/images/20250504-2-DSC_5071-2.jpg)
 
-[![F-25B](/assets/images/20250902-55-DSC_2390s.jpg)](/assets/images/20250902-55-DSC_2390.jpg)
+[![HMS Prince of Wales](/assets/images/20250902-55-DSC_2390s.jpg)](/assets/images/20250902-55-DSC_2390.jpg)
 
 ### Keyboard
 
@@ -45,11 +45,15 @@ Jun Yokoyama(@nysalor)
 
 ## Community
 
+[![miurahanto.rb](/Users/jun/Downloads/FireShot/miurahantorb.png)](https://miurahantorb.connpass.com/)
+
 [miurahanto.rb](https://miurahantorb.connpass.com/)
 
 ## Work
 
-[Research and Innovation Co.,Ltd.](https://www.r-n-i.jp/) Akasaka, Tokyo
+[Research and Innovation Co.,Ltd.](https://www.r-n-i.jp/) @Akasaka, Tokyo
+
+[Developer's Blog](https://rni-dev.hatenablog.com/)
 
 ## link
 
